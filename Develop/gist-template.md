@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# The Different Types of Regex
 
-Introductory paragraph (replace this with your text)
+Regex stands for Regular Expression. A regex is a string of text that lets you create patterns that help match, locate, and manage text.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The regex that i will be descibing is [ -~]. It matches all ASCII characters from the space to tilde. What are these characters? These are all printable characters!
 
 ## Table of Contents
 
