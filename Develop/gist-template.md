@@ -1,10 +1,10 @@
-# The Different Types of Regex
+# The ASCII Characters Match Regex
 
 Regex stands for Regular Expression. A regex is a string of text that lets you create patterns that help match, locate, and manage text.
 
 ## Summary
 
-The regex that i will be descibing is [ -~]. It matches all ASCII characters from the space to tilde. What are these characters? These are all printable characters!
+The regex that i will be descibing is ``` [ -~] ```. It matches all ASCII characters from the space to tilde. What are these characters? These are all printable characters!
 
 ## Table of Contents
 
